@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/storybox.figma-tokens-l4yn0h8p",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 1ORwCJrj5Uv0ghrrfYjB --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
